@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="43px" viewBox="0 0 25 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M42.0612327,85.2984751 L25.0061828,102.233058 C24.7158714,102.521157 24.5706619,102.899267 24.5706619,103.277055 C24.5706619,103.654737 24.7158714,104.032419 25.0061828,104.320839 C25.5862673,104.897677 26.5273841,104.897677 27.1081145,104.321266 L45.1101098,86.4464261 C45.6072935,85.9527572 45.6785841,85.1969309 45.3249944,84.6278154 C45.2581062,84.3934046 45.1317239,84.1721993 44.9458476,83.9876712 L27.1082221,66.2773521 C26.5274918,65.7009409 25.5862673,65.7009409 25.006398,66.2775659 C24.715979,66.5658784 24.5706619,66.9436672 24.5706619,67.321456 C24.5706619,67.6993516 24.715979,68.0770335 25.0062904,68.3655598 L42.0612327,85.2984751 Z" id="path-1"></path>
+        <filter x="-16.7%" y="-6.4%" width="133.4%" height="118.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Tablet-portrait" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tp---02.-Entertainment" transform="translate(-733.000000, -144.000000)">
+            <g id="carousel" transform="translate(-118.000000, 79.000000)">
+                <g id="Group-2">
+                    <g id="arrow" transform="translate(830.327370, 85.000000) scale(-1, 1) translate(-830.327370, -85.000000) translate(762.327370, 0.000000)">
+                        <g transform="translate(35.058140, 85.299296) scale(-1, 1) translate(-35.058140, -85.299296) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
